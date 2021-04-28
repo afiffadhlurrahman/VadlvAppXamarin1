@@ -1,0 +1,14 @@
+C:\Users\afiff\source\repos\VadlvAppXamarin1\VadlvAppXamarin1\VadlvAppXamarin1\bin\Debug\netstandard2.0\VadlvAppXamarin1.deps.json
+C:\Users\afiff\source\repos\VadlvAppXamarin1\VadlvAppXamarin1\VadlvAppXamarin1\bin\Debug\netstandard2.0\VadlvAppXamarin1.dll
+C:\Users\afiff\source\repos\VadlvAppXamarin1\VadlvAppXamarin1\VadlvAppXamarin1\bin\Debug\netstandard2.0\ref\VadlvAppXamarin1.dll
+C:\Users\afiff\source\repos\VadlvAppXamarin1\VadlvAppXamarin1\VadlvAppXamarin1\bin\Debug\netstandard2.0\VadlvAppXamarin1.pdb
+C:\Users\afiff\source\repos\VadlvAppXamarin1\VadlvAppXamarin1\VadlvAppXamarin1\obj\Debug\netstandard2.0\VadlvAppXamarin1.csprojAssemblyReference.cache
+C:\Users\afiff\source\repos\VadlvAppXamarin1\VadlvAppXamarin1\VadlvAppXamarin1\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\afiff\source\repos\VadlvAppXamarin1\VadlvAppXamarin1\VadlvAppXamarin1\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\afiff\source\repos\VadlvAppXamarin1\VadlvAppXamarin1\VadlvAppXamarin1\obj\Debug\netstandard2.0\VadlvAppXamarin1.AssemblyInfoInputs.cache
+C:\Users\afiff\source\repos\VadlvAppXamarin1\VadlvAppXamarin1\VadlvAppXamarin1\obj\Debug\netstandard2.0\VadlvAppXamarin1.AssemblyInfo.cs
+C:\Users\afiff\source\repos\VadlvAppXamarin1\VadlvAppXamarin1\VadlvAppXamarin1\obj\Debug\netstandard2.0\VadlvAppXamarin1.csproj.CoreCompileInputs.cache
+C:\Users\afiff\source\repos\VadlvAppXamarin1\VadlvAppXamarin1\VadlvAppXamarin1\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\afiff\source\repos\VadlvAppXamarin1\VadlvAppXamarin1\VadlvAppXamarin1\obj\Debug\netstandard2.0\VadlvAppXamarin1.dll
+C:\Users\afiff\source\repos\VadlvAppXamarin1\VadlvAppXamarin1\VadlvAppXamarin1\obj\Debug\netstandard2.0\ref\VadlvAppXamarin1.dll
+C:\Users\afiff\source\repos\VadlvAppXamarin1\VadlvAppXamarin1\VadlvAppXamarin1\obj\Debug\netstandard2.0\VadlvAppXamarin1.pdb
